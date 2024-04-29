@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nuuuk04
+- 👋 Hi, I’m Balint aka nuuuk
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Mathematic
 - 💞️ I’m looking to collaborate on ...
